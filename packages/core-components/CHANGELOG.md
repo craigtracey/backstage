@@ -1,5 +1,18 @@
 # @backstage/core-components
 
+## 0.12.6-next.1
+
+### Patch Changes
+
+- d0befd3fb23: Fixed a bug that could prevent auth from working when using the `guest` or `custom` auth providers.
+- 29ba8267d69: Updated dependency `@material-ui/lab` to `4.0.0-alpha.61`.
+- Updated dependencies
+  - @backstage/config@1.0.7
+  - @backstage/core-plugin-api@1.5.0
+  - @backstage/errors@1.1.5
+  - @backstage/theme@0.2.18
+  - @backstage/version-bridge@1.0.3
+
 ## 0.12.6-next.0
 
 ### Patch Changes

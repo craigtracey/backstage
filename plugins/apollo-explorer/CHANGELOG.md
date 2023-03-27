@@ -1,5 +1,16 @@
 # @backstage/plugin-apollo-explorer
 
+## 0.1.10-next.1
+
+### Patch Changes
+
+- 7d75f6d9b8f: chore: Improve API Reference documentation
+- 29ba8267d69: Updated dependency `@material-ui/lab` to `4.0.0-alpha.61`.
+- Updated dependencies
+  - @backstage/core-components@0.12.6-next.1
+  - @backstage/core-plugin-api@1.5.0
+  - @backstage/theme@0.2.18
+
 ## 0.1.10-next.0
 
 ### Patch Changes

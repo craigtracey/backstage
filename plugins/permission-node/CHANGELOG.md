@@ -1,5 +1,17 @@
 # @backstage/plugin-permission-node
 
+## 0.7.7-next.1
+
+### Patch Changes
+
+- 71fd0966d10: Added createConditionAuthorizer utility function, which takes some permission conditions and returns a function that returns a definitive authorization result given a decision and a resource.
+- Updated dependencies
+  - @backstage/backend-common@0.18.4-next.1
+  - @backstage/config@1.0.7
+  - @backstage/errors@1.1.5
+  - @backstage/plugin-auth-node@0.2.13-next.1
+  - @backstage/plugin-permission-common@0.7.4
+
 ## 0.7.7-next.0
 
 ### Patch Changes

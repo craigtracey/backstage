@@ -1,5 +1,13 @@
 # @backstage/create-app
 
+## 0.4.39-next.1
+
+### Patch Changes
+
+- 71fd0966d10: Add `permissionApi` as dependency of the scaffolder-backend plugin
+- Updated dependencies
+  - @backstage/cli-common@0.1.12
+
 ## 0.4.39-next.0
 
 ### Patch Changes

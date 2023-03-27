@@ -1,5 +1,20 @@
 # @backstage/plugin-search-backend-module-elasticsearch
 
+## 1.2.0-next.1
+
+### Minor Changes
+
+- 1469daa409e: Search backend modules migrated to the new backend system. For documentation on how to migrate, check out the [how to migrate to the new backend system guide](../docs/features/search/how-to-guides.md#how-to-migrate-to-use-search-together-with-the-new-backend-system).
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-search-backend-node@1.2.0-next.1
+  - @backstage/backend-common@0.18.4-next.1
+  - @backstage/backend-plugin-api@0.5.1-next.1
+  - @backstage/config@1.0.7
+  - @backstage/plugin-search-common@1.2.2
+
 ## 1.1.5-next.0
 
 ### Patch Changes

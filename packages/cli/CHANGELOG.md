@@ -1,5 +1,21 @@
 # @backstage/cli
 
+## 0.22.6-next.1
+
+### Patch Changes
+
+- 24432ae52fb: Fix the build for packages with multiple entry points to avoid duplicated modules.
+- 79e91d4c30a: Support importing `.md` files in build loader
+- 29ba8267d69: Updated dependency `@material-ui/lab` to `4.0.0-alpha.61`.
+- Updated dependencies
+  - @backstage/cli-common@0.1.12
+  - @backstage/config@1.0.7
+  - @backstage/config-loader@1.1.9
+  - @backstage/errors@1.1.5
+  - @backstage/eslint-plugin@0.1.3-next.0
+  - @backstage/release-manifests@0.0.9
+  - @backstage/types@1.0.2
+
 ## 0.22.6-next.0
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # @backstage/plugin-analytics-module-ga
 
+## 0.1.28-next.1
+
+### Patch Changes
+
+- 7d75f6d9b8f: chore: Improve API Reference documentation
+- Updated dependencies
+  - @backstage/core-components@0.12.6-next.1
+  - @backstage/config@1.0.7
+  - @backstage/core-plugin-api@1.5.0
+  - @backstage/theme@0.2.18
+
 ## 0.1.28-next.0
 
 ### Patch Changes
